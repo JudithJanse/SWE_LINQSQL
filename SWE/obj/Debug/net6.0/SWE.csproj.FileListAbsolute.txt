@@ -1,0 +1,15 @@
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\SWE.exe
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\SWE.deps.json
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\SWE.runtimeconfig.json
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\SWE.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\SWE.pdb
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.csproj.AssemblyReference.cache
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.AssemblyInfoInputs.cache
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.AssemblyInfo.cs
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.csproj.CoreCompileInputs.cache
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.dll
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\refint\SWE.dll
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.pdb
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.genruntimeconfig.cache
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\ref\SWE.dll
