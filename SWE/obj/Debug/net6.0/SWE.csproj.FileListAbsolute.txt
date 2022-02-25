@@ -13,3 +13,15 @@ C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\refint\SWE.dll
 C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.pdb
 C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.genruntimeconfig.cache
 C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\ref\SWE.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\judit\source\repos\SWE\SWE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\judit\source\repos\SWE\SWE\obj\Debug\net6.0\SWE.csproj.CopyComplete
