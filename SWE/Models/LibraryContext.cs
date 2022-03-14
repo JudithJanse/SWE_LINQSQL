@@ -18,5 +18,4 @@ namespace SWE.Models
             public DbSet<Author> Authors { get; set; }
         }
     }
-}
-}
+
